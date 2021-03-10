@@ -1,0 +1,25 @@
+a:visited {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: violet;
+
+
+}
+
+a:active {
+    color: tomato;
+    background-color: teal;
+    text-decoration: underline;
+}
+
+a {
+    color: lightgrey;
+    background: teal;
+    padding: 10px;
+    margin: 15px;
+    border: 1px solid;
+}
